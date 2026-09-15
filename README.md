@@ -9,6 +9,7 @@ This repository contains my practice audit reports, proofs of concept, and the l
 | Protocol | Review type | Date | Results |
 | --- | --- | --- | --- |
 | [88mph](audits/2021-05-88mph/) | Historical Code4rena practice audit | 7-15 August 2026 | 1 independently reproduced low-severity issue and 1 issue that matched the official report |
+| [Yield Protocol v2](audits/2021-08-yield/) | Historical Code4rena practice audit | 26 August-15 September 2026 | 1 self-assessed Medium finding reproduced with Foundry and 1 Low observation |
 
 ## How I Review Protocols
 
